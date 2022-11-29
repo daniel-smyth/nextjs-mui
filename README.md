@@ -10,6 +10,16 @@
 | React.js | https://reactjs.org/     |
 | MUI      | https://mui.com/         |
 
+# Home Page
+
+![image](https://i.imgur.com/n7mEYmF.png)
+
+# Log in
+
+![image](https://i.imgur.com/s2AUFCi.png)
+
+# Description
+
 Next.JS & React.JS (TypeScript) front-end with authentication. Linting with Eslint Airbnb Style Guide. Themed with MUI. Authentication for this application is configured to work with my repository [fastapi-mongodb].
 
 ### Installation
